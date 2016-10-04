@@ -1,2 +1,3 @@
 ﻿tekst początkowy
 nowy tekst
+kolejny tekst w kolejnej gałęzi
